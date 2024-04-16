@@ -35,7 +35,7 @@ Feedback and contributions are welcome! If you have any suggestions for improvem
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/pawel-swiader/tech-stack-animation/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
