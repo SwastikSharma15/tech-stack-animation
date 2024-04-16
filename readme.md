@@ -1,19 +1,18 @@
-# Tech Stack Animation
+# Tech Stack Animation - Development
 
-This repository contains an interactive animation created using HTML, CSS, and JavaScript. The animation demonstrates a tech stack concept where hovering over different technology icons triggers dynamic text effect.
+This repository contains an interactive animation created using HTML, CSS, and JavaScript. The animation demonstrates a tech stack concept where hovering over different technology icons triggers dynamic text effect. Additionally, the branch includes a table for debugging animations.
 
 ## Features
 
 - **Interactive Animation**: Users can hover over technology icons to trigger animation and display relevant information.
 - **Dynamic Transitions**: Smooth transitions enhance the user experience when interacting with the animation.
-- **Debugging Display**: A debugging table is included to monitor various states and events during interaction.
 
 ## How to Use
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/pawel-swiader/tech-stack-animation.git
+   git clone --single-branch --branch dev https://github.com/pawel-swiader/tech-stack-animation.git
    ```
 
 2. **Open `index.html`**: Navigate to the project directory and open `index.html` in your preferred web browser.
