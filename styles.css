@@ -44,11 +44,3 @@ img {
 img:hover {
   transform: scale(120%);
 }
-table {
-  margin-top: 40px;
-  width: 100%;
-  font-size: 30px;
-}
-td:nth-child(2) {
-  text-align: end;
-}

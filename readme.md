@@ -6,7 +6,6 @@ This repository contains an interactive animation created using HTML, CSS, and J
 
 - **Interactive Animation**: Users can hover over technology icons to trigger animation and display relevant information.
 - **Dynamic Transitions**: Smooth transitions enhance the user experience when interacting with the animation.
-- **Debugging Display**: A debugging table is included to monitor various states and events during interaction.
 
 ## How to Use
 
