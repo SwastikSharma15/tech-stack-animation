@@ -2,7 +2,9 @@
 
 This repository contains an interactive animation created using HTML, CSS, and JavaScript. The animation demonstrates a tech stack concept where hovering over different technology icons triggers dynamic text effect. Additionally, the branch includes a table for debugging animations.
 
-![](animation-dev.gif)
+<p align="center">
+   <img src="animation-dev.gif" alt="Animation gif">
+</p>
 
 ## Features
 
