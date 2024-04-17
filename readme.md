@@ -4,7 +4,7 @@ This repository contains an interactive animation created using HTML, CSS, and J
 
 ---
 
-<p align="center" style="border: solid 5px white">
+<p align="center" style="border: solid 5px white;">
    <img width= src="animation-dev.gif" alt="Animation gif">
 </p>
 
