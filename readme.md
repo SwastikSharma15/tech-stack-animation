@@ -2,6 +2,12 @@
 
 This repository contains an interactive animation created using HTML, CSS, and JavaScript. The animation demonstrates a tech stack concept where hovering over different technology icons triggers dynamic text effect.
 
+---
+
+<p align="center">
+   <img width="80%" src="animation.gif" alt="Animation gif">
+</p>
+
 ## Features
 
 - **Interactive Animation**: Users can hover over technology icons to trigger animation and display relevant information.
